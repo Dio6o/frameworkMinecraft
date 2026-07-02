@@ -1,0 +1,20 @@
+{
+  "description" : {
+    "translate" : "enchantment.meupack.super_sharpness"
+  },
+  "supported_items" : "#minecraft:enchantable/sharp_weapon",
+  "primary_items" : "#minecraft:enchantable/sharp_weapon",
+  "weight" : 10,
+  "max_level" : 5,
+  "min_cost" : {
+    "base" : 1,
+    "per_level_above_first" : 11
+  },
+  "max_cost" : {
+    "base" : 21,
+    "per_level_above_first" : 11
+  },
+  "anvil_cost" : 1,
+  "slots" : [ "mainhand" ],
+  "effects" : { }
+}

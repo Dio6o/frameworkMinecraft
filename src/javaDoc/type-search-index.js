@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"dataPackCreator","l":"AdvancementFacade"},{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"dataPackCreator","l":"DataPackFacade"},{"p":"dataPackCreator","l":"EnchantmentFacade"},{"p":"dataPackCreator","l":"LootFacade"},{"p":"dataPackCreator","l":"Main"},{"p":"dataPackCreator","l":"RecipeFacade"}];updateSearchResults();
