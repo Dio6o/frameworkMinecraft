@@ -1,0 +1,8 @@
+{
+  "type" : "minecraft:crafting_shapeless",
+  "ingredients" : [ "minecraft:coal", "minecraft:gunpowder" ],
+  "result" : {
+    "id" : "minecraft:fire_charge",
+    "count" : 1
+  }
+}
