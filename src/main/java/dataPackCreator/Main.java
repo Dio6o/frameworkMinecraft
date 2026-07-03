@@ -4,6 +4,8 @@ import java.io.IOException;
 
 public class Main {
     public static void main(String[] args) throws IOException {
+
+        //testes do framework
         DataPackFacade dp = new DataPackFacade();
 
         dp.recipes().shapedRecipe(
@@ -53,7 +55,7 @@ public class Main {
         );
 
         dp.advancements().createAdvancement(
-                "root",
+                "conquista",
                 null,
                 "minecraft:grass_block",
                 "DataPack test",

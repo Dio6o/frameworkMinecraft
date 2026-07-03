@@ -1,6 +1,6 @@
 {
   "description" : {
-    "translate" : "enchantment.meupack.super_sharpness"
+    "translate" : "enchantment.test.super_afiacao"
   },
   "supported_items" : "#minecraft:enchantable/sharp_weapon",
   "primary_items" : "#minecraft:enchantable/sharp_weapon",
